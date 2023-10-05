@@ -1,3 +1,3 @@
 .ssh
 ansible-navigator.log
-*_artifact_*
+*-artifact-*
